@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ecd5637c1cab5d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "4609695a22067e80",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Event Sourcing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cddbbc6a010d84d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f0852bfd3830202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a716e97f993131",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "68b72b307fc9de6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e030e3437a0f5040",
+    "type": "split",
+    "children": [
+      {
+        "id": "b98e907c11a0c605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9189fbf7e4ac6e42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Event Sourcing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Event Sourcing.md",
+    "Actor pattern.md",
+    "CQRS.md",
+    "Untitled.md"
+  ]
+}
